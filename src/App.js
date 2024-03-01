@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, useRoutes } from 'react-router-dom';
-import AddRecipe from './AddRecipe';
-import RecipeList from './RecipeList';
-import RecipeDetail from './RecipeDetail';
+import AddRecipe from './pages/AddRecipe';
+import RecipeList from './pages/Receitas';
+import RecipeDetail from './pages/Receita';
 
 function App() {
   const routes = useRoutes([

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { getReceitas } from '../api/receitas';
+const { getReceitas, app, PORT, receitas } = require('../api/receitas');
 
 const Receitas = () => {
   const [receitas, setReceitas] = useState([]);
