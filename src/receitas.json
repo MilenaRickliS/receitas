@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "titulo": "Feijoada",
+    "ingredientes": ["Feijão preto", "Batata-doce", "Pimentão", "Carne moída"],
+    "modoPreparo": ["Refogue a carne moída com azeite", "Adicione a batata-doce e o pimentão", "Adicione o feijão preto e mexa bem", "Tempere com sal e pimenta a gosto", "Aqueça a forno e asse por 1 hora"]
+  },
+  {
+    "id": 2,
+    "titulo": "Pizza de calabresa",
+    "ingredientes": ["Massa de pizza", "Calabresa", "Queijo mozzarella", "Tomate"],
+    "modoPreparo": ["Prepare a massa de pizza", "Adicione a calabresa e o queijo mozzarella", "Adicione o tomate e mexa bem", "Asse no forno por 20 minutos"]
+  }
+]
